@@ -44,6 +44,7 @@ Uygulama, standart bir kayıt defteri olmanın ötesinde, **OpenAI API (GPT-4o-m
 ---
 
 ## 📁 Proje Klasör Yapısı
+```text
 ├── index.php             # Ana panel, dashboard ve işlemlerin listelendiği merkez dosya
 ├── login.php             # Kullanıcı kimlik doğrulama (Giriş) sayfası
 ├── logout.php            # Oturumu sonlandırma ve güvenli çıkış dosyası
@@ -58,6 +59,8 @@ Uygulama, standart bir kayıt defteri olmanın ötesinde, **OpenAI API (GPT-4o-m
 ├── not_sil.php           # Strateji notu ve ilgili görseli temizleme dosyası
 ├── data.sql              # Veritabanı şeması ve başlangıç konfigürasyon verileri
 └── uploads/              # Yüklenen ekran görüntülerinin saklandığı dizin
+...
+```
 
 ---
 
